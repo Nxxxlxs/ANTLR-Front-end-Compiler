@@ -1,0 +1,19 @@
+:DECLARACAO
+int var1
+float var2
+string var3
+Bool var4
+string var5
+string var6
+Bool var7
+
+:ALGORITMO
+ATRIBUIR 1000021 A var1
+ATRIBUIR  1001,4218291625 A var2
+ATRIBUIR var1*var2 A var1
+ATRIBUIR "isso é uma string" A var3
+ATRIBUIR var2>var1 A var4
+ATRIBUIR var4 A var7
+ATRIBUIR 1 A var4
+
+
